@@ -15,3 +15,6 @@ Compile/Run in Java
 
 javac -cp "path/to/JDA.jar" MyBot.java
 java -cp ".:path/to/JDA.jar" MyBot
+
+
+Install Discord.NET C# library for C# program
